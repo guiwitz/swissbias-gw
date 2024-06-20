@@ -1,0 +1,11 @@
+# Do not edit - changes here will be overwritten by Copier
+_commit: v1
+_src_path: gh:pydev-guide/pyrepo-copier
+author_email: guillaume.witz@unibe.ch
+author_name: Guillaume Witz
+github_username: guiwitz
+mode: tooling
+module_name: swissbias_gw
+project_name: swissbias-gw
+project_short_description: swissbias demo
+
