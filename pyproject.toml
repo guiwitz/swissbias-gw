@@ -91,6 +91,8 @@ select = [
 ]
 ignore = [
     "D401", # First line should be in imperative mood (remove to opt in)
+    "D103",
+    "D100",
 ]
 
 [tool.ruff.lint.per-file-ignores]
